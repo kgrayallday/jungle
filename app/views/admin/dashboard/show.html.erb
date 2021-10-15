@@ -1,2 +1,17 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Admin Dash</h1>
+<!-- TODO button links are placeholder values for now, update when we have proper links/routes -->
+
+<div class="panel panel-default items">
+  <table class="table table-bordered">
+    <tr>
+      <th> Number of Categories </th>
+      <td style='text-align: center; font-size: 1.2em'> <%= @categories %> </td>
+      <td style='width: 0.1%; text-align: center;'> <%= link_to 'Go To Categories', [:admin, :products], class: 'btn btn-light' %> </td>
+    </tr>
+    <tr>
+      <th> Number of Products </th>
+      <td style='text-align: center; font-size: 1.2em'> <%= @products %> </td>
+      <td style='width: 0.1%; text-align: center;'> <%= link_to 'Go To Products', [:admin, :products], class: 'btn btn-light' %></td>
+    </tr>
+  </table>
+</div>
