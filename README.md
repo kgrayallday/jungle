@@ -4,27 +4,27 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Products Catalogue
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/products.png?raw=true)
 
 ## Product Details
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/details.png?raw=true)
 
 ## Shopping Cart
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/cart.png?raw=true)
 
 ## Pay with Stripe
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/pay.png?raw=true)
 
 ## Admin Dashboard
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/admin-dash.png?raw=true)
 
 ## Admin Product Edit
 
-![picture-here](https://source.unsplash.com/random/600x600)
+![picture-here](https://github.com/kgrayallday/jungle/blob/master/docs/admin-products.png?raw=true)
 
 
 
