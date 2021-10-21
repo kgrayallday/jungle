@@ -2,6 +2,32 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Products Catalogue
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+## Product Details
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+## Shopping Cart
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+## Pay with Stripe
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+## Admin Dashboard
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+## Admin Product Edit
+
+![picture-here](https://source.unsplash.com/random/600x600)
+
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
